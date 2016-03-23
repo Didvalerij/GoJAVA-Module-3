@@ -1,10 +1,11 @@
 package com.goit.flowers;
 
-import java.util.List;
+import java.util.HashSet;
+import java.util.Set;
 
 /**
  * Created by user on 13.03.2016.
  */
 public class FloralBouquet {
-    List<Flower> flowers;
+    private Set Flower = new HashSet<>();
 }
